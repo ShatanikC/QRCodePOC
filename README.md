@@ -6,8 +6,7 @@ Generates QR Codes for Feedback
 A lightweight, interactive Streamlit web application that generates QR codes for feedback forms based on validated bill numbers. This tool ensures data integrity by enforcing a strict alphanumeric format for bill numbers before generating the QR code.
 
 ## 🚀 Live Demo
-*[Optional: If you deploy to Streamlit Cloud, paste your live app URL here!]*
-👉 [View Live App](https://your-app-name.streamlit.app)
+👉 [View Live App](https://qrcode-feedback-poc.streamlit.app/)
 
 ---
 
